@@ -73,6 +73,9 @@
         <mxCell id="ZLMe1sIbapqyTCxvVwkS-31" value="没有超卖的节点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="653" y="285" width="87" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ZLMe1sIbapqyTCxvVwkS-32" value="没有超卖的节点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="655" y="415" width="87" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
